@@ -1405,7 +1405,6 @@ Giftbox4u.com
 Theadminforum.com
 aa.hostasa.org
 golfschule-mcqueen.de
-*.bazar
 donkeymicroball.xyz
 volumehookpin.xyz
 13.57.228.163/www/html/doc/ha
@@ -1592,7 +1591,7 @@ statchecker.yandex.ru
 uptime-info.yandex.ru
 visit-monitor.yandex.ru
 web-metrica.yandex.ru
-yandexadexchange.netΓÇï
+yandexadexchange.net
 improvememory.org
 apr.intoolkom.at
 gutrai.sk
