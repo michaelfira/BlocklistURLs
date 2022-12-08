@@ -2081,7 +2081,6 @@ www.yorkshire-espana-sa.com/english/servicios/
 https://github.com/slotz/sharp-loader/commit/f9de338fb474fd970a7375030642d04179b9245d
 testdomain2019.chickenkiller.com
 thyssenkrupp-marinesystems.org
-*.bazar
 13.57.228.163/www/html/doc/handle
 18.236.164.13/www/html/doc/handle
 18.236.164.13:443/www/html/doc/handle
@@ -2127,7 +2126,7 @@ unblocked-games.s3.amazonaws.com
 lichgames.s3.amazonaws.com
 betweendigital.cdnvideo.ru
 213-155-156-184.teliacarrier-cust.com
-yandexadexchange.net​
+yandexadexchange.net
 sites.google.com/site/fnfunblocked/friday-night-funkin-cg5-edition-mod
 2018731169-atari-embeds.googleusercontent.com
 sites.google.com/site/fnfunblocked
@@ -2344,5 +2343,4 @@ researchersgokick.rocks
 hellomr.observer
 www.exercisep.com
 aaa.apiaaaeg.com
-jim@ownshearmadness.co
 petevolutionfranchising.com
